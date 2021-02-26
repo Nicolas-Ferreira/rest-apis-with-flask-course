@@ -1,0 +1,3 @@
+https://arac.tecladocode.com/
+https://flask-jwt-extended.readthedocs.io/en/latest/index.html
+https://tools.ietf.org/html/rfc7519
